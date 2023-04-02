@@ -1,0 +1,86 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.box {
+  width: 23%;
+  height: 200px;
+  background-color: red;
+  border: 1px solid blue;
+  margin-right: 2%;
+}
+.WATCHING h3 {
+  width: 23%;
+  height: 200px;
+  margin-right: 30%;
+  justify-content: center;
+  position: absolute;
+  top: 70px; 
+  right: 10px;
+
+}
+
+.blue-box {
+  border-radius: 30px;
+  width: 23%;
+  height: 200px;
+  background-color: rgb(0, 119, 255);
+  border: 1px solid blue;
+  margin-right: 2%;
+}
+.red-box {
+  border-radius: 30px;
+  width: 23%;
+  height: 200px;
+  background-color: rgb(175, 46, 46);
+  border: 1px solid blue;
+  margin-right: 2%;
+}
+.yellow-box {
+  border-radius: 30px;
+  width: 23%;
+  height: 200px;
+  background-color: rgb(255, 191, 0);
+  border: 1px solid blue;
+  margin-right: 2%;
+}
+.green-box {
+  border-radius: 30px;
+  width: 23%;
+  height: 200px;
+  background-color: rgb(0, 255, 17);
+  border: 1px solid blue;
+  margin-right: 2%;
+}
+
+.blue-box  h2{
+  color: red;
+  font-family: cursive;
+
+}.red-box h2{
+  color: blue;
+  font-family: cursive;
+
+}.yellow-box h2{
+  color: blue;
+  font-family: cursive;
+
+}.green-box h2{
+  color: blue;
+  font-family: cursive;
+
+}
+
+.logo-image{
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: -6px;
+}
+
+.WATCHING h3{
+  font-family: cursive;
+}
+
